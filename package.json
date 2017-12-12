@@ -1,5 +1,5 @@
 {
-  "name": "PreciseSlice/gen-random",
+  "name": "@PreciseSlice/gen-random",
   "version": "1.0.0",
   "description": "Random Generator",
   "main": "index.js",
